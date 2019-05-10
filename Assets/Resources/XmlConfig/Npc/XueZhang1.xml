@@ -1,0 +1,15 @@
+﻿<XueZhang1>
+	<ChangeStep>
+		<Step0>Step1</Step0>
+		<Step1>Step0</Step1>
+	</ChangeStep>
+	<Story>
+		<Step0>
+			<Command CommandType = "Dialogue" AC = "F">学长：快去宿舍看看吧</Command>
+			<Command CommandType = "Property" AC = "F">MONEY, -5</Command>
+		</Step0>
+		<Step1>
+			<Command CommandType = "Dialogue" AC = "F">哦，你要买凉席啊！</Command>
+		</Step1>
+	</Story>
+</XueZhang1>

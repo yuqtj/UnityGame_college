@@ -1,0 +1,22 @@
+﻿<XueZhang2>
+	<ChangeStep>
+		<Step0>Step1</Step0>
+		<Step1>Step0</Step1>
+	</ChangeStep>
+	<Story>
+		<Step0>
+			<Command CommandType = "Dialogue" AC = "F">xx：新来的同学看看咯！开学大优惠啦，通通8折，没有你买不到，只有你想不到！
+xx：咦！同学，过来看看吧，学长卖的这些东西你都会需要的！</Command>
+		<Command CommandType = "Toggle" AC = "F">凉席,收音机,毛毯</Command>
+		</Step0>
+		<Step1>
+			<Command CommandType = "Dialogue" AC = "F">哦，你要买凉席啊！</Command>
+		</Step1>
+		<Step2>
+			<Command CommandType = "Dialogue" AC = "F">哦，你要买收音机啊！</Command>
+		</Step2>
+		<Step3>
+			<Command CommandType = "Dialogue" AC = "F">哦，你要买毛毯啊！</Command>
+		</Step3>
+	</Story>
+</XueZhang2>

@@ -1,0 +1,97 @@
+﻿<Player>
+	<ChangeStep>
+		<Step0>Step1</Step0>
+	</ChangeStep>
+	<Story>
+		<Step0>
+			<Command CommandType = "Move" AC = "F">
+			3.58,0,Player
+			</Command>
+			<Command CommandType = "Turn" AC = "F">XueZhang1,Right</Command>
+			<Command CommandType = "Dialogue" AC = "F">学长：你好，我是学长，你是新来的大学生吧？
+			杀马特青年：对呀，你好，我是XXX
+			学长：请跟我来吧，我带你去宿舍，顺便带你介绍一下周围的建筑物</Command>
+			<Command CommandType = "Move" AC = "T">
+			2.8,0,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			3.06,0,Player
+			</Command>
+			<Command CommandType = "Turn" AC = "T">XueZhang1,Up</Command>
+			<Command CommandType = "Turn" AC = "F">Player,Up</Command>
+			<Command CommandType = "Dialogue" AC = "F">学长：这个是医务室，一旦你生命值受到损伤时可以得到治疗。</Command>
+			<Command CommandType = "Move" AC = "T">
+			1.88,0,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			2.10,0,Player
+			</Command>
+			<Command CommandType = "Move" AC = "T">
+			0,-0.51,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			0,-0.30,Player
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			1.94,0,Player
+			</Command>
+			<Command CommandType = "Turn" AC = "T">XueZhang1,Up</Command>
+			<Command CommandType = "Turn" AC = "F">Player,Down</Command>
+			<Command CommandType = "Dialogue" AC = "F">学长：这里是大学生活动中心，简称大活，这里经常有学生在这边搞活动，跳舞唱歌之类的。</Command>
+			<Command CommandType = "Move" AC = "T">
+			0,-0.85,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			0,-0.58,Player
+			</Command>
+			<Command CommandType = "Move" AC = "T">
+			1.65,0,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			0,-0.85,Player
+			</Command>
+			<Command CommandType = "Move" AC = "T">
+			-0.24,0,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			0.02,0,Player
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			0,-1.08,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			-0.24,0,Player
+			</Command>
+			<Command CommandType = "Move" AC = "T">
+			0,-1.98,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			0,-1.72,Player
+			</Command>
+			<Command CommandType = "Move" AC = "T">
+			0.06,0,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			0,-1.98,Player
+			</Command>
+			<Command CommandType = "Move" AC = "T">
+			0.06,0,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			0,-1.98,Player
+			</Command>
+			<Command CommandType = "Move" AC = "T">
+			1.43,0,XueZhang1
+			</Command>
+			<Command CommandType = "Move" AC = "F">
+			1.07,0,Player
+			</Command>
+			<Command CommandType = "Turn" AC = "T">XueZhang1,Up</Command>
+			<Command CommandType = "Turn" AC = "F">Player,Up</Command>
+			<Command CommandType = "Dialogue" AC = "F">学长：这里就是你的宿舍了，24号楼，我们手机加个联系方式吧，如果你想买床上用品什么的可以找一下那个黄头发的学长。</Command>
+		</Step0>
+		<Step1>
+
+		</Step1>
+	</Story>
+</Player>

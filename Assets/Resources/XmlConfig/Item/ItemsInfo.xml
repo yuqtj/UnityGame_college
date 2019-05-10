@@ -1,0 +1,18 @@
+﻿<Items>
+	<LiangXi name="凉席">
+		<Info>凉席相关详细说明</Info>
+		<iq>2</iq>
+		<eq>0</eq>
+		<hp>0</hp>
+		<money>0</money>
+		<appear>0</appear>
+	</LiangXi>
+	<ChuiFengJi name="吹风机">
+		<Info>吹风机相关详细说明xxxxxxx</Info>
+		<iq>2</iq>
+		<eq>0</eq>
+		<hp>0</hp>
+		<money>0</money>
+		<appear>0</appear>
+	</ChuiFengJi>
+</Items>
